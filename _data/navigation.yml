@@ -7,7 +7,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Projects
+      en      : &EN       Projects & Presentation
       # @end locale config
     url: /projects.html
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: Résumé & CV
+titles: 'Résumé & CV'
 ---
 
 

@@ -7,7 +7,7 @@ titles: 'Blog Posts'
 
 **Capacitor Filtering**  
 The basic characteristic of a capacitor is to block direct current and pass alternating current. This is because the capacitive reactance of a capacitor is inversely proportional to the frequency of the alternating current, that is, Xc = 1 / (2πfC), meaning that the higher the frequency, the lower the capacitive reactance, and the lower the frequency, the higher the capacitive reactance.  
-So it can be understood that capacitors are in a high-resistance state when it comes to direct current and extremely low-frequency alternating current, and thus cannot pass through. How![](/assets/blog/b2.png)ver, when it comes to high-frequency alternating current, a short-circuit effect occurs and it can pass through very easily.  
+So it can be understood that capacitors are in a high-resistance state when it comes to direct current and extremely low-frequency alternating current, and thus cannot pass through. However, when it comes to high-frequency alternating current, a short-circuit effect occurs and it can pass through very easily.  
 Capacitor filtering also takes advantage of this fundamental characteristic. For instance, the purpose of filter capacitors in power supplies is to filter out ripple, and the frequency of ripple is very low. When the frequency f is very small, to obtain a low capacitive reactance Xc, large-capacity capacitors need to be used. Therefore, filter capacitors are usually in the uf range, such as 10uF or 100uF polarized electrolytic capacitors.  
 In addition to taking advantage of the impedance characteristics of capacitors to frequency, filter capacitors can also utilize the energy storage characteristics of capacitors, that is, the charging and discharging characteristics of capacitors, to filter out ripples and achieve the effect of voltage stabilization. For instance, in a rectifier circuit, if it is half-wave rectification, the alternating current will be rectified into periodic unidirectional pulsating direct current. The fluctuation of this ripple is too large, and the load cannot be used.
 
@@ -33,7 +33,7 @@ In conclusion, the investor report illuminates critical advances in the semicond
 
 ![](/assets/blog/b1.png)
 
-Morgan Stanley Research. (2023). Update Investor Presentation | Asia Pacific Friday New Economy Webcast: 5G, AI and China's Semiconductor Materials Localization Outlook.
+Morgan Stanley Research. (2023). Update Investor Presentation \| Asia Pacific Friday New Economy Webcast: 5G, AI and China's Semiconductor Materials Localization Outlook.
 
 
 ## 2024 August 11 — Thoughts on Verification Engineering

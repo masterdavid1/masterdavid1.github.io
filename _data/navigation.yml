@@ -13,12 +13,30 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Publications
+      en      : &EN       Courses & Notes
       # @end locale config
-    url: /publications.html
+    url: /courses.html
 
   - titles:
       # @start locale config
-      en      : &EN       More
+      en      : &EN       laboratory
       # @end locale config
-    url: /more.html
+    url: /laboratory.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Awards & Certification
+      # @end locale config
+    url: /awards.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Blog Posts
+      # @end locale config
+    url: /blog.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Consultation & Contact
+      # @end locale config
+    url: /consultation.html

@@ -18,14 +18,9 @@ Welcome! I am a 4th-year undergraduate student engineer pursuing a Bachelor of A
   <div class="hero__content">
     <h4>Contact</h4>
     <p style="font-size: medium;"><b>E-mail</b>: daviduoft.li@mail.utoronto.ca<br>
-      <b>Phone</b>: +86 (0)571 81883223<br>
-      <b>Address</b>:<br>
-      SD457, Science Building<br>
-      Xi'an Jiaotong-Liverpool University<br>
-      Suzhou Dushu Lake Science and Education Innovation District<br>
-      Suzhou Industrial Park<br>
-      Suzhou, China<br>
-      215123
+      <b>Office Tel</b>: (437)260-3332<br>
+      <b>Alt Tel</b>: (416)722-3722<br>
+      <b>Cell</b>: (647)847-7716<br>
     </p>
   </div>
 </div>

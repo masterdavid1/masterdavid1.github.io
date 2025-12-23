@@ -1,19 +1,19 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN      Resume & CV
+      en      : &EN      Resume
       # @end locale config
     url: /about.html
 
   - titles:
       # @start locale config
-      en      : &EN       Projects & Presentation
+      en      : &EN       Projects
       # @end locale config
     url: /projects.html
 
   - titles:
       # @start locale config
-      en      : &EN       Courses & Notes
+      en      : &EN       Courses
       # @end locale config
     url: /courses.html
 
@@ -25,18 +25,18 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Awards & Certification
+      en      : &EN       Awards
       # @end locale config
     url: /awards.html
 
   - titles:
       # @start locale config
-      en      : &EN       Blog Posts
+      en      : &EN       Blog
       # @end locale config
     url: /blog.html
 
   - titles:
       # @start locale config
-      en      : &EN       Consultation & Contact
+      en      : &EN       Consultation
       # @end locale config
     url: /consultation.html

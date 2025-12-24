@@ -5,7 +5,7 @@ titles: 'Consultation & Contact'
 
 <img src="/assets/c1.png" width="50%">
 
-<img src="/assets/c2.png" width="50%">
+<img src="/assets/c2.png" width="30%">
 
 ## Consultation Service
 

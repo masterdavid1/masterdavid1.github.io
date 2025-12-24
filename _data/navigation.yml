@@ -19,7 +19,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       laboratory
+      en      : &EN       Laboratory
       # @end locale config
     url: /laboratory.html
 

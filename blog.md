@@ -3,7 +3,14 @@ layout: article
 titles: 'Blog Posts'
 ---
 
-## 2025 May 19 — Capacitor Filtering vs Inductor Filtering
+## Blog Posts
+
+1. [2025 May 19 — Capacitor Filtering vs Inductor Filtering](#blog-2025-05-19)
+2. [2024 September 23 — Investor report review: Tesla's Dojo and the Future of Semiconductor Investment](#blog-2024-09-23)
+3. [2024 August 11 — Thoughts on Verification Engineering](#blog-2024-08-11)
+4. [2024 May 02 — Product & Consumer Demand](#blog-2024-05-02)
+
+## <span id="blog-2025-05-19">2025 May 19 — Capacitor Filtering vs Inductor Filtering</span>
 
 **Capacitor Filtering**  
 The basic characteristic of a capacitor is to block direct current and pass alternating current. This is because the capacitive reactance of a capacitor is inversely proportional to the frequency of the alternating current, that is, Xc = 1 / (2πfC), meaning that the higher the frequency, the lower the capacitive reactance, and the lower the frequency, the higher the capacitive reactance.  
@@ -17,7 +24,7 @@ The principle of inductance is Lenz's law. When the current flowing through an i
 So it can be understood that the inductor is in a high-resistance state at the moment of high-frequency alternating current, hindering its passage. When it is in direct current, it is equivalent to a wire and will have a short-circuit effect, making it very easy to pass through. Note that the high-resistance state here is merely an obstruction, not a stop. It can only delay the passage of the signal and allow it to pass through smoothly, rather than preventing it from passing.
 
 
-## 2024 September 23 — Investor report review: Tesla's Dojo and the Future of Semiconductor Investment
+## <span id="blog-2024-09-23">2024 September 23 — Investor report review: Tesla's Dojo and the Future of Semiconductor Investment</span>
 
 **Introduction**  
 In today's fast-changing technological environment, semiconductor investments are becoming increasingly popular. This essay provides an analysis and a synopsis of an investment report, concentrating on the significance of Tesla's Dojo and other significant semiconductor industry developments. Furthermore, unique perspectives and comments on the investor report will be offered.  
@@ -36,7 +43,7 @@ In conclusion, the investor report illuminates critical advances in the semicond
 Morgan Stanley Research. (2023). Update Investor Presentation \| Asia Pacific Friday New Economy Webcast: 5G, AI and China's Semiconductor Materials Localization Outlook.
 
 
-## 2024 August 11 — Thoughts on Verification Engineering
+## <span id="blog-2024-08-11">2024 August 11 — Thoughts on Verification Engineering</span>
 
 ![](/assets/blog/b2.png)
 
@@ -120,7 +127,7 @@ In actual debugging, there are many ways to find the cause of the fault, and the
 3) Signal tracing method is a simple and intuitive method that is generally applicable to various circuits and is widely used in dynamic debugging.
 
 
-## 2024 May 02 — Product & Consumer Demand
+## <span id="blog-2024-05-02">2024 May 02 — Product & Consumer Demand</span>
 
 Product & consumer demand 
 

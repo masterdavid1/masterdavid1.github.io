@@ -11,12 +11,17 @@ Welcome! I am a 4th-year undergraduate student engineer pursuing a Bachelor of A
 </iframe>
 
 <div class="hero" style="background-color:#f7f7f7; ">
-  <div class="hero__content">
-    <h4>Contact</h4>
-    <p style="font-size: medium;"><b>E-mail</b>: daviduoft.li@mail.utoronto.ca<br>
-      <b>Office Tel</b>: (437)260-3332<br>
-      <b>Alt Tel</b>: (416)722-3722<br>
-      <b>Cell</b>: (647)847-7716<br>
-    </p>
+  <div class="hero__content" style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 250px;">
+      <h4>Contact</h4>
+      <p style="font-size: medium;"><b>E-mail</b>: daviduoft.li@mail.utoronto.ca<br>
+        <b>Office Tel</b>: (437)260-3332<br>
+        <b>Alt Tel</b>: (416)722-3722<br>
+        <b>Cell</b>: (647)847-7716<br>
+      </p>
+    </div>
+    <div style="flex: 0 0 auto;">
+      <img src="/assets/c3.png" alt="QR Code" style="max-width: 200px; height: auto;">
+    </div>
   </div>
 </div>

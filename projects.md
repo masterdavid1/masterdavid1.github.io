@@ -6,11 +6,11 @@ titles: 'Projects & Presentation'
 
 ## Project
 
-1. SDR Receiver
-2. GaN based energy storage system and charger solution (Capstone project)
-3. ESP Solution Localized automatic lighting solution
+1. [SDR Receiver](#sdr-receiver)
+2. [GaN based energy storage system and charger solution (Capstone project)](#gan-capstone)
+3. [ESP Solution Localized automatic lighting solution](#esp-lighting)
 
-### Radio Receiver end for a Flexible Radio Transceiver (FLRTRX)
+### <span id="sdr-receiver">Radio Receiver end for a Flexible Radio Transceiver (FLRTRX)</span>
 
 This project was conducted in ECE295 as a hardware design project for the purpose of implementing the front-end of the flexible radio transceiver, which is divided into 5 subsystems. As team leader, I managed to keep track of progress and build up the team spirit. I practiced exemplary oral and written communication skills as well professionalism through meetings with the project manager and teaching assistant and documenting all testing and meeting minutes.
 
@@ -55,7 +55,7 @@ For Assembly & testing, details can be found in final Presentation document
   <p>Your browser does not support PDFs. <a href="/assets/pdfs/Project1-SDRReceiver.pdf">Download the PDF</a> instead.</p>
 </iframe>
 
-### Solar-powered electronics charger using Gallium Nitride (GaN) based power converter
+### <span id="gan-capstone">Solar-powered electronics charger using Gallium Nitride (GaN) based power converter</span>
 
 Research and Ongoing project Status can be monitored on our website [https://ece496team2025120.com](https://ece496team2025120.com)
 
@@ -79,7 +79,7 @@ A fully functional GaN-based DC-DC converter prototype capable of harnessing sol
   <p>Your browser does not support PDFs. <a href="/assets/pdfs/Project2-Capstone.pdf">Download the PDF</a> instead.</p>
 </iframe>
 
-### Engineering Strategies & Project: Address Bird Mortality Caused by Light Pollution
+### <span id="esp-lighting">Engineering Strategies & Project: Address Bird Mortality Caused by Light Pollution</span>
 
 In this group project, I acted as the contact person and design engineer for the team. I connected with the client throughout the length of this project and hosted and spoke on progress meetings and explained final deliverables. Many tools, such as Gantt chart, team charter, cost-benefit analysis, are utilized to facilitate team organization and efficiency. CAD tools like the V-Ray Lighting Analysis is used to simulate the proposed solution's effectiveness in order to present to the client.
 

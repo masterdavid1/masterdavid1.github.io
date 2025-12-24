@@ -1,0 +1,119 @@
+<button id="back-to-top" class="back-to-top" aria-label="Back to top">
+  <div class="back-to-top__arrow">
+    <svg width="20" height="30" viewBox="0 0 20 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <line x1="10" y1="0" x2="10" y2="20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      <path d="M3 17 L10 24 L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </svg>
+  </div>
+  <span class="back-to-top__text">Back to top</span>
+</button>
+
+<script>
+(function() {
+  var backToTopButton = document.getElementById('back-to-top');
+  
+  // 显示/隐藏按钮
+  function toggleBackToTop() {
+    if (window.pageYOffset > 300) {
+      backToTopButton.classList.add('show');
+    } else {
+      backToTopButton.classList.remove('show');
+    }
+  }
+  
+  // 滚动到顶部
+  function scrollToTop() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  }
+  
+  // 监听滚动事件
+  window.addEventListener('scroll', toggleBackToTop);
+  
+  // 点击按钮
+  backToTopButton.addEventListener('click', scrollToTop);
+  
+  // 初始化
+  toggleBackToTop();
+})();
+</script>
+
+<style>
+.back-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s, visibility 0.3s, transform 0.3s;
+  z-index: 1000;
+  padding: 10px;
+  color: #333;
+  font-family: Verdana, sans-serif;
+}
+
+.back-to-top.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover {
+  transform: translateY(-3px);
+}
+
+.back-to-top:active {
+  transform: translateY(0);
+}
+
+.back-to-top__arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 8px;
+  color: #000;
+}
+
+.back-to-top__arrow svg {
+  display: block;
+}
+
+.back-to-top__text {
+  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    bottom: 20px;
+    right: 20px;
+    padding: 8px;
+  }
+  
+  .back-to-top__arrow {
+    margin-bottom: 6px;
+  }
+  
+  .back-to-top__arrow svg {
+    width: 16px;
+    height: 24px;
+  }
+  
+  .back-to-top__text {
+    font-size: 10px;
+  }
+}
+</style>
+

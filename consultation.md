@@ -3,9 +3,9 @@ layout: article
 titles: 'Consultation & Contact'
 ---
 
-![](/assets/c1.png)
+<img src="/assets/c1.png" width="50%">
 
-![](/assets/c2.png)
+<img src="/assets/c2.png" width="50%">
 
 ## Consultation Service
 

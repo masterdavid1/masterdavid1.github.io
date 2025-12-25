@@ -15,13 +15,13 @@ table td, table th {
 
 |     |     |     |     |     |     |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fundamentals | APS110<br><br>Chemistry and Materials Science | APS111<br><br>Engineering Strategies | CIV100<br><br>Mechanics | MAT186<br><br>Calculus I | MAT188<br><br>Linear Algebra |
-|     | APS105<br><br>Computer Fundamentals | APS112<br><br>Engineering Strategies II | MIE100<br><br>Dynamics | MAT187<br><br>Calculus II | MAT290<br><br>Advanced Engineering Mathematics |
-|     | [ECE244](#ece-244-programming-fundamentals)<br><br>Programming Fundamentals | ECE243<br><br>Computer Organization | ECE302<br><br>Probability and Applications | MAT291<br><br>Calculus III | ECE221<br><br>Electric and Magnetic Fields |
-| Control, Signal Processing | ECE311<br><br>Introduction to Control Systems | ECE216<br><br>Signals and Systems | [ECE241](#ece-241-digital-systems)<br><br>Digital Systems | BME331<br><br>Physiological Control Systems | ECE316<br><br>Communication Systems (extra course) |
-| Electronics | ECE110<br><br>Electrical Fundamentals | [ECE212](#ece-212-circuit-analysis)<br><br>Circuit Analysis | ECE231<br><br>Introductory Electronics | [ECE295](#ece-295-hardware-design)<br><br>Hardware Design and Communication | [ECE331](#ece-331-analog-electronics)<br><br>Analog Electronics |
-|     | [ECE334](#ece-334-digital-electronics)<br><br>Digital Electronics | [ECE430](#ece-430-analog-integrated-circuits)<br><br>Analog Integrated Circuits | ECE412<br><br>Analog Signal Processing Circuits | [ECE314](#ece-314-power-electronics-and-motors)<br><br>Electrical Energy Systems | ECE313<br><br>Energy Sys. & Distributed Generation |
-| Nanofabrication, Semiconductor Physics | [ECE330](#ece-330-quantum--semiconductor-physics)<br><br>Quantum and Semiconductor Physics | [ECE335](#ece-335-introduction-to-electronic-devices)<br><br>Electronic Devices | ECE318<br><br>Fundamentals of Optics | [ECE437](#ece-437-vlsi-technology)<br><br>VLSI Technology | [ECE442](#ece-442-introduction-to-micro--and-nano-fabrication-technologies)<br><br>Micro & Nano Fabrication Technologies |
+| Fundamentals | APS110<br>Chemistry and Materials Science | APS111<br>Engineering Strategies | CIV100<br>Mechanics | MAT186<br>Calculus I | MAT188<br>Linear Algebra |
+|     | APS105<br>Computer Fundamentals | APS112<br>Engineering Strategies II | MIE100<br>Dynamics | MAT187<br>Calculus II | MAT290<br>Advanced Engineering Mathematics |
+|     | [ECE244](#ece-244-programming-fundamentals)<br>Programming Fundamentals | ECE243<br>Computer Organization | ECE302<br>Probability and Applications | MAT291<br>Calculus III | ECE221<br>Electric and Magnetic Fields |
+| Control, Signal Processing | ECE311<br>Introduction to Control Systems | ECE216<br>Signals and Systems | [ECE241](#ece-241-digital-systems)<br>Digital Systems | BME331<br>Physiological Control Systems | ECE316<br>Communication Systems (extra course) |
+| Electronics | ECE110<br>Electrical Fundamentals | [ECE212](#ece-212-circuit-analysis)<br>Circuit Analysis | ECE231<br>Introductory Electronics | [ECE295](#ece-295-hardware-design)<br>Hardware Design and Communication | [ECE331](#ece-331-analog-electronics)<br>Analog Electronics |
+|     | [ECE334](#ece-334-digital-electronics)<br>Digital Electronics | [ECE430](#ece-430-analog-integrated-circuits)<br>Analog Integrated Circuits | ECE412<br>Analog Signal Processing Circuits | [ECE314](#ece-314-power-electronics-and-motors)<br>Electrical Energy Systems | ECE313<br>Energy Sys. & Distributed Generation |
+| Nanofabrication, Semiconductor Physics | [ECE330](#ece-330-quantum--semiconductor-physics)<br>Quantum and Semiconductor Physics | [ECE335](#ece-335-introduction-to-electronic-devices)<br>Electronic Devices | ECE318<br>Fundamentals of Optics | [ECE437](#ece-437-vlsi-technology)<br>VLSI Technology | [ECE442](#ece-442-introduction-to-micro--and-nano-fabrication-technologies)<br>Micro & Nano Fabrication Technologies |
 
 
 ## <span id="ece-314-power-electronics-and-motors">ECE 314 Power Electronics and motors</span>

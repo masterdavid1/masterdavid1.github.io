@@ -12,8 +12,11 @@ table td, table th {
   vertical-align: top;
   text-align: left;
 }
-table a {
-  text-decoration: underline;
+table a:link,
+table a:visited,
+table a:hover,
+table a:active {
+  text-decoration: underline !important;
 }
 </style>
 

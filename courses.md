@@ -3,8 +3,18 @@ layout: article
 titles: 'Courses & Notes'
 ---
 
+<style>
+table {
+  text-align: left;
+}
+table td, table th {
+  vertical-align: top;
+  text-align: left;
+}
+</style>
+
 |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | Fundamentals | APS110<br><br>Chemistry and Materials Science | APS111<br><br>Engineering Strategies | CIV100<br><br>Mechanics | MAT186<br><br>Calculus I | MAT188<br><br>Linear Algebra |
 |     | APS105<br><br>Computer Fundamentals | APS112<br><br>Engineering Strategies II | MIE100<br><br>Dynamics | MAT187<br><br>Calculus II | MAT290<br><br>Advanced Engineering Mathematics |
 |     | [ECE244](#ece-244-programming-fundamentals)<br><br>Programming Fundamentals | ECE243<br><br>Computer Organization | ECE302<br><br>Probability and Applications | MAT291<br><br>Calculus III | ECE221<br><br>Electric and Magnetic Fields |

@@ -3,21 +3,25 @@ layout: article
 titles: 'Courses & Notes'
 ---
 
-## Courses & Notes
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| Fundamentals | APS110<br><br>Chemistry and Materials Science | APS111<br><br>Engineering Strategies | CIV100<br><br>Mechanics | MAT186<br><br>Calculus I | MAT188<br><br>Linear Algebra |
+|     | APS105<br><br>Computer Fundamentals | APS112<br><br>Engineering Strategies II | MIE100<br><br>Dynamics | MAT187<br><br>Calculus II | MAT290<br><br>Advanced Engineering Mathematics |
+|     | ECE244<br><br>Programming Fundamentals | ECE243<br><br>Computer Organization | ECE302<br><br>Probability and Applications | MAT291<br><br>Calculus III | ECE221<br><br>Electric and Magnetic Fields |
+| Control, Signal Processing | ECE311<br><br>Introduction to Control Systems | ECE216<br><br>Signals and Systems | ECE241<br><br>Digital Systems | BME331<br><br>Physiological Control Systems | ECE316<br><br>Communication Systems (extra course) |
+| Electronics | ECE110<br><br>Electrical Fundamentals | ECE212<br><br>Circuit Analysis | ECE231<br><br>Introductory Electronics | ECE295<br><br>Hardware Design and Communication | ECE331<br><br>Analog Electronics |
+|     | ECE334<br><br>Digital Electronics | ECE430<br><br>Analog Integrated Circuits | ECE412<br><br>Analog Signal Processing Circuits | ECE314<br><br>Electrical Energy Systems | ECE313<br><br>Energy Sys. & Distributed Generation |
+| Nanofabrication, Semiconductor Physics | ECE330<br><br>Quantum and Semiconductor Physics | ECE335<br><br>Electronic Devices | ECE318<br><br>Fundamentals of Optics | ECE437<br><br>VLSI Technology | ECE442<br><br>Micro & Nano Fabrication Technologies |
 
-1. [ECE 295 Hardware Design](#ece-295-hardware-design)
-2. [ECE 241 Digital Systems](#ece-241-digital-systems)
-3. [ECE 212 Circuit Analysis](#ece-212-circuit-analysis)
-4. [ECE 244 Programming Fundamentals](#ece-244-programming-fundamentals)
-5. [ECE 330 Quantum & Semiconductor Physics](#ece-330-quantum--semiconductor-physics)
-6. [ECE 335 Introduction to Electronic Devices](#ece-335-introduction-to-electronic-devices)
-7. [ECE 437 VLSI Technology](#ece-437-vlsi-technology)
-8. [ECE 331 Analog Electronics](#ece-331-analog-electronics)
-9. [ECE 334 Digital Electronics](#ece-334-digital-electronics)
-10. [ECE 472 Engineering Economics](#ece-472-engineering-economics)
-11. [ECE 430 Analog Integrated Circuits](#ece-430-analog-integrated-circuits)
-12. [ECE 314 Power Electronics and motors](#ece-314-power-electronics-and-motors)
-13. [ECE 442 Introduction to Micro- and Nano-Fabrication Technologies](#ece-442-introduction-to-micro--and-nano-fabrication-technologies)
+
+## <span id="ece-314-power-electronics-and-motors">ECE 314 Power Electronics and motors</span>
+
+High-efficiency energy conversion via switched-mode power electronic circuits: design and steady-state modeling of DC/DC converters, DC/AC converters using pulse-width modulation. AC power quality and power factor, including non-sinusoidal currents. Energy conversion via magnetic devices: Faraday's law for time varying fields, transformer and inductor modelling and design. Introduction to electromechanical energy conversion: Lorentz Force, concepts of energy, co-energy, forces between ferromagnetic materials carrying flux, simple magnetic actuators, introduction to synchronous machines.
+
+<iframe src="/assets/pdfs/Notes for Power Electronics《电力电子技术》笔记(ECE3142-23).pdf" width="100%" height="800px" style="border: none;">
+  <p>Your browser does not support PDFs. <a href="/assets/pdfs/Notes for Power Electronics《电力电子技术》笔记(ECE3142-23).pdf">Download the PDF</a> instead.</p>
+</iframe>
+
 
 ## <span id="ece-295-hardware-design">ECE 295 Hardware Design</span>
 
@@ -63,10 +67,10 @@ Engineering Economics required course. The economic evaluation and argumentation
 
 Review of MOSFET semiconductor device equations. Noise in electronic devices. Review of single-stage amplifiers and frequency response, including noise analysis. Basic CMOS op amp. Op amp compensation. Advanced op amp circuits: telescopic and folded-cascode op amps. Fully-differential op amps. Common mode feedback.
 
-## <span id="ece-314-power-electronics-and-motors">ECE 314 Power Electronics and motors</span>
-
-High-efficiency energy conversion via switched-mode power electronic circuits: design and steady-state modeling of DC/DC converters, DC/AC converters using pulse-width modulation. AC power quality and power factor, including non-sinusoidal currents. Energy conversion via magnetic devices: Faraday's law for time varying fields, transformer and inductor modelling and design. Introduction to electromechanical energy conversion: Lorentz Force, concepts of energy, co-energy, forces between ferromagnetic materials carrying flux, simple magnetic actuators, introduction to synchronous machines.
-
 ## <span id="ece-442-introduction-to-micro--and-nano-fabrication-technologies">ECE 442 Introduction to Micro- and Nano-Fabrication Technologies</span>
 
 The physical principles of optical lithography, electron-beam lithography, alternative nanolithography techniques, and thin film deposition and metrology methods. The physical and chemical processes of wet and dry etching. Cleanroom concepts and safety protocols. Sequential micro-fabrication processes involved in the manufacture of microelectronic and photonic devices. Imaging and characterization of micro- and nano-structures. Inspection using Scanning Electron Microscopy and Transmission Electron Microscopy.
+
+<iframe src="/assets/pdfs/Notes for MICRO & NANO FABRICATION.pdf" width="100%" height="800px" style="border: none;">
+  <p>Your browser does not support PDFs. <a href="/assets/pdfs/Notes for MICRO & NANO FABRICATION.pdf">Download the PDF</a> instead.</p>
+</iframe>

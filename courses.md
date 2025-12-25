@@ -3,6 +3,7 @@ layout: article
 titles: 'Courses & Notes'
 ---
 
+## Personal Curriculum at a glance
 <style>
 table {
   text-align: left;
@@ -10,6 +11,9 @@ table {
 table td, table th {
   vertical-align: top;
   text-align: left;
+}
+table a {
+  text-decoration: underline;
 }
 </style>
 

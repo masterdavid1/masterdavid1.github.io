@@ -6,11 +6,15 @@ titles: Bio
 
 Welcome! I am a 4th-year undergraduate student engineer pursuing a Bachelor of Applied Science degree in Electrical Engineering in the ECE department at the University of Toronto, Canada's #1 Engineering school. My research interests include amplifiers, electronic circuit & design, general analog integrated circuits, analog-to-digital converters, nanofabrication techniques and inspection, semiconductor device physics and semiconductor industry research. 
 
+### Personal Portfolio & Experience Overview （Latex Formatted)
+
 <iframe src="/assets/pdfs/main.pdf" width="100%" height="800px" style="border: none;">
   <p>Your browser does not support PDFs. <a href="/assets/pdfs/main.pdf">Download the PDF</a> instead.</p>
 </iframe>
 
-<img src="/assets/c1.png" width="50%">
+<div style="text-align: center;">
+  <img src="/assets/c1.png" width="40%">
+</div>
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content" style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">

@@ -12,9 +12,6 @@ Welcome! I am a 4th-year undergraduate student engineer pursuing a Bachelor of A
   <p>Your browser does not support PDFs. <a href="/assets/pdfs/main.pdf">Download the PDF</a> instead.</p>
 </iframe>
 
-<div style="text-align: center;">
-  <img src="/assets/c1.png" width="40%">
-</div>
 
 <div class="hero" style="background-color:#f7f7f7; ">
   <div class="hero__content" style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
